@@ -1,0 +1,13 @@
+/* styles/blog.css */
+body {
+  background-color: #fff8f0;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+article {
+  margin-top: 20px;
+}
