@@ -2,25 +2,15 @@
   "name": "blogging-website",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Maniha-z/Blogging-Website.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Maniha-z/Blogging-Website/issues"
-  },
-  "homepage": "https://github.com/Maniha-z/Blogging-Website#readme",
   "devDependencies": {
-    "htmlhint": "^1.6.3",
-    "parcel": "^2.15.4",
-    "stylelint": "^16.21.0",
-    "stylelint-config-standard": "^38.0.0"
+    "htmlhint": "^1.1.5",
+    "parcel": "^2.11.0",
+    "stylelint": "^15.10.3",
+    "stylelint-config-standard": "^34.0.0"
   }
 }
